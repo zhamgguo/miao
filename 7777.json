@@ -73,6 +73,42 @@
       "quickSearch": 1,
       "filterable": 0
     },
+	 {
+      "key": "乐视",
+      "name": "乐视     ",
+      "type": 0,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/letv/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	 {
+      "key": "咪咕资源",
+      "name": "咪咕资源     ",
+      "type": 0,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/migu/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	 {
+      "key": "华数资源",
+      "name": "华数资源     ",
+      "type": 0,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/wasu/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	 {
+      "key": "风行资源",
+      "name": "风行资源     ",
+      "type": 0,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/funshion/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 	{
       "key": "花椒",
       "name": "花椒     ",
