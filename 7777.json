@@ -176,7 +176,6 @@
 
 
 
-
 {"key":"csp_xml_gc","name":"官采资源","type":1,  "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",  /* 诺讯资源 */"playUrl":"parse:自动解析","categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]},
 {"key": "csp_xml_taopian","name": "淘片","type": 0,"api": "https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8","categories": []},
 #
