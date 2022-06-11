@@ -91,6 +91,7 @@
 {"key": "csp_xpath_万能影视","name": "万能影视〔X〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tv.nxog.top/m/wnvod.json"},
 {"key": "csp_xpath_虎牙直播","name": "虎牙直播〔X〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tv.nxog.top/m/huya.json"},
 {"key": "csp_xpath_球赛直播","name": "球赛直播〔X〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tv.nxog.top/m/88kanqiu.json"},
+{"key": "csp_xpath_大地资源2","name": "大地资源2〔X〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://dadiapi.com/feifei2/"},
 
 {"key":"csp_appysv2_超人影视","name":"超人影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
 {"key":"csp_appysv2_益达影院","name":"益达影院〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
@@ -99,6 +100,7 @@
 {"key":"csp_appysv2_爱酷影视","name":"爱酷影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appysv2_粉象视界","name":"粉象视界〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_迪迪影视","name":"迪迪影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
+{"key":"csp_appysv2_大地资源","name":"大地资源〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"https://dadiapi.com/maxcms.php"},
 
 
 {"key":"csp_xml_gc","name":"官采资源","type":1,  "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",  /* 诺讯资源 */"playUrl":"parse:自动解析","categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]},
