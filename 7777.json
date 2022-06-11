@@ -64,6 +64,16 @@
       "quickSearch": 1,
       "filterable": 0
     },
+	 {
+      "key": "水帘洞资源",
+      "name": "水帘洞资源     ",
+      "type": 0,
+      "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
 
 //XPath
 {"key":"csp_xpath___利奥影视","name":"利奥影视〔X〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/bvio.json"},
