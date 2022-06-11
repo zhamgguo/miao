@@ -73,6 +73,23 @@
       "quickSearch": 1,
       "filterable": 0
     },
+	 {
+      "key": "花椒",
+      "name": "花椒     ",
+      "type": 0,
+      "api": " {
+      "key": "m1905",
+      "name": "m1905     ",
+      "type": 0,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 
 
 //XPath
